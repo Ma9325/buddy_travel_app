@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833590972465",
+    "project_id": "buddytravelapp",
+    "storage_bucket": "buddytravelapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833590972465:android:e9af36ab3b568761b14510",
+        "android_client_info": {
+          "package_name": "com.example.buddy_travel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsG6Lhx_Z8HhIWex_90xmDqQjvAcczCEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
